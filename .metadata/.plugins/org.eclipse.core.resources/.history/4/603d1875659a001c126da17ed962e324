@@ -1,0 +1,9 @@
+package com.revature.java.store;
+import com.revature.java.store.Customer;
+
+public class Create {
+	public static void main(String[] args) {
+		Customer cus1 = new Customer("Kiersten", 20.52);
+		System.out.println(cus1.toString());
+}
+}

@@ -1,0 +1,9 @@
+package com.revature.pkg;
+
+public class PersonManager {
+	public static void main(String[] args) {
+		Person p = new Person ("J", 42);
+		System.out.println(p);
+	}
+
+}

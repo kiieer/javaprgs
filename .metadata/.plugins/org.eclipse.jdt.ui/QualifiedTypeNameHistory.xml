@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.revature.java.demo.Student"/>
+    <fullyQualifiedTypeName name="com.revature.java.store.Customer"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="io.javalin.Javalin"/>
+    <fullyQualifiedTypeName name="io.javalin.http.Handler"/>
+    <fullyQualifiedTypeName name="com.revature.demo.controller.HandlerController"/>
+    <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
+    <fullyQualifiedTypeName name="com.revature.emp.SalariedEmployee"/>
+    <fullyQualifiedTypeName name="com.revature.emp.ContractualEmployee"/>
+    <fullyQualifiedTypeName name="com.revature.emp.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="com.revature.exceptions.custom.InvalidAgeException"/>
+    <fullyQualifiedTypeName name="com.revature.exceptions.custom.Person"/>
+    <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
+</qualifiedTypeNameHistroy>

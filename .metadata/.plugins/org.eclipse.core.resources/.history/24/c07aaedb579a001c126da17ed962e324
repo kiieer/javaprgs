@@ -1,0 +1,27 @@
+
+public class StringBufferBuilder {
+public static void main(String[] args) {
+	//StringBuffer
+	
+	
+	//append
+	StringBuffer h = new StringBuffer("Hello");
+	h.append(" World!");
+	System.out.println(h);
+	
+	//insert
+	h.insert(5, " INSERT");
+	System.out.println(h);
+	
+	//delete char at
+	h.deleteCharAt(6);
+	System.out.println(h);
+	
+	//set char at
+	h.setCharAt(6, 'Y');
+	System.out.println(h);
+	
+	//substring
+	System.out.println(h.substring(1, 4));
+}
+}

@@ -1,0 +1,16 @@
+package com.kiersten.two;
+
+public class Calculator {
+	int num1;
+	int num2;
+
+	public Calculator(int i, int j) {
+	}
+
+	public int getAddition(int n1, int n2) {
+		int sum = n1 + n2;
+		return sum;
+		
+	}
+}
+

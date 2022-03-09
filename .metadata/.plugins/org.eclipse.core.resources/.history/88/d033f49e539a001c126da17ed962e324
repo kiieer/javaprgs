@@ -1,0 +1,15 @@
+
+public class StringBufferBuilder {
+public static void main(String[] args) {
+	//StringBuffer
+	
+	
+	//append
+	StringBuffer h = new StringBuffer("Hello");
+	h.append(" World!");
+	System.out.println(h);
+	
+	//insert
+	h.insert(3, "INSERT");
+}
+}

@@ -1,0 +1,10 @@
+package com.revature.emp;
+
+public class SalariedEmployee {
+		private int id;
+		private String name;
+		private String dept;
+		
+		
+
+}

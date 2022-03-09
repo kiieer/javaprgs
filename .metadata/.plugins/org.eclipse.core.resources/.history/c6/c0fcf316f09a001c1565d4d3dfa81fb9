@@ -1,0 +1,7 @@
+package com.kiersten.two;
+
+public class Math {
+	public static void main(String[] args) {
+		getAddition(1, 2);
+	}
+}

@@ -1,0 +1,10 @@
+package com.revature.emp.manager;
+
+import com.revature.emp.SalariedEmployee;
+
+public class EmployeeManager {
+public static void main(String[] args) {
+	 SalariedEmployee se1 = new SalariedEmployee(101, "Jack", "Training", 20);
+	 System.out.println(se1);
+}
+}

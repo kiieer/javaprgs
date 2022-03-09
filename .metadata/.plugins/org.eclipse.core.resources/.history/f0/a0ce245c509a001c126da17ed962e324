@@ -1,0 +1,9 @@
+
+public class StringAPI {
+public static void main(String[] args) {
+	String hw = "Hello World!";
+	System.out.println(hw.toUpperCase());
+	System.out.println(hw.toLowerCase());
+	
+}
+}

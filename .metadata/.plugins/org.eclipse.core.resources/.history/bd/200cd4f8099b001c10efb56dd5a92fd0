@@ -1,0 +1,6 @@
+package com.revature.mvn.demo;
+
+public class PersonManager {
+	Person p = new Person("Jasdhir", 42);
+	System.out.println(p)
+}
