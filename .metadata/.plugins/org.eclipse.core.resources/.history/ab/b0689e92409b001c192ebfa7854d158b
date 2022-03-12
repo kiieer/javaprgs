@@ -1,7 +1,0 @@
-package com.revature.assignment.controller;
-
-import io.javalin.http.Handler;
-
-public class AssignmentController {
-
-}
