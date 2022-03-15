@@ -1,5 +1,0 @@
-package com.revature.emp;
-
-public interface Tax {
-
-}

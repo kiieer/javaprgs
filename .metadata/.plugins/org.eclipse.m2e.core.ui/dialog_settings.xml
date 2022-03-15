@@ -47,6 +47,8 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.revature.project.zero"/>
+			<item value="com.revature.testing"/>
 			<item value="com.revature.mytests"/>
 			<item value="com.revature.assignments"/>
 			<item value="com.revature.app"/>
@@ -63,6 +65,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Project0"/>
+			<item value="TestingExamplesAssignment"/>
 			<item value="TestingExamples"/>
 			<item value="InterfaceAssignment"/>
 			<item value="CollectionsToolBox"/>
@@ -76,8 +80,6 @@
 			<item value="02JavalinDemo"/>
 			<item value="JavalinAssignment"/>
 			<item value="Assignment"/>
-			<item value="01JavalinDemo"/>
-			<item value="MavenDemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

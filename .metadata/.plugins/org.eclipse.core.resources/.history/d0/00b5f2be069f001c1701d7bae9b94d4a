@@ -1,9 +1,0 @@
-package com.revature.emp;
-
-public interface Tax {
-	public void calculateTax();
-}
-
-// class extends class
-// class implements interface(s)
-// interface extends interface
