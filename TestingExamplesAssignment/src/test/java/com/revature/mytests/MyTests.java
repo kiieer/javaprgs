@@ -19,9 +19,15 @@ public class MyTests {
 	}
 	
 	@Test
+	public void testName() {
+		String nameResult = at.name("Kiersten", "Christlieb");
+		Assertions.assertEquals("Kiersten Christlieb", nameResult);
+	}
+	
+	@Test
 	public void testCube() {
-		int addResult = at.cube(2);
-		Assertions.assertEquals(8, addResult);
+		int cubeResult = at.cube(2);
+		Assertions.assertEquals(8, cubeResult);
 	}
 	
 	@Test

@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\javaprgs\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=D\:\\Java\\javaprgs\\.git;D\:\\Java\\BookAPI\\.git;C\:\\Users\\Kiersten\\BankAPI\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;D\:\\Java\\BookAPI\\.git;C\:\\Users\\Kiersten\\BankAPI\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
