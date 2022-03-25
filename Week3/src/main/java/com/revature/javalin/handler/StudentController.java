@@ -4,30 +4,23 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
+import java.util.List;
 
+import com.revature.javalin.daos.StudentDAO;
+import com.revature.javalin.daos.StudentPostgressDAO;
 import com.revature.javalin.entity.Student;
+import com.revature.javalin.service.StudentPostgresService;
+import com.revature.javalin.service.StudentService;
 import com.revature.javalin.utilities.ConnUtil;
 
 import io.javalin.http.Handler;
 
 public class StudentController {
+	
+	static StudentService service = new StudentPostgresService();
 	public static Handler getAllStudents = ctx -> {
-		Connection conn = ConnUtil.createConnection();
-		String selectClients = "select * from student";
-		PreparedStatement ptsmt = conn.prepareStatement(selectClients);
-		ResultSet rs = ptsmt.executeQuery();
-		ArrayList<Student> sList = new ArrayList<Student>();
-		Student s;
-		while (rs.next()) {
-			int id = rs.getInt("id");
-			String name = rs.getString("name");
-			s = new Student(id, name);
-			sList.add(s);
-		}
-
+		List<Student> sList = service.getAllStudents();
 		ctx.json(sList);
-		rs.close();
-		ptsmt.close();
 	};
 
 	public static Handler addStudent = ctx -> {

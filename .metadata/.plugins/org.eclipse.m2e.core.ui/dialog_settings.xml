@@ -47,6 +47,7 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.revature.pctcbank.project"/>
 			<item value="com.revature.week3day5"/>
 			<item value="com.kiersten.jdbc"/>
 			<item value="com.revature.project.zero"/>
@@ -61,11 +62,11 @@
 			<item value="com.kiersten.javalin"/>
 			<item value="com.revature.javalin.assignment"/>
 			<item value="com.revature.javalin.Assignment"/>
-			<item value="com.revature.javalin.demo"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="PCTCBank"/>
 			<item value="Week3"/>
 			<item value="01JDBCProject"/>
 			<item value="Project0"/>
@@ -80,7 +81,6 @@
 			<item value="AbstractAssignment"/>
 			<item value="EmpProject02"/>
 			<item value="EmployeeProject"/>
-			<item value="02JavalinDemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
