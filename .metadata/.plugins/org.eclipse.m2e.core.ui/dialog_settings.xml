@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Java\javaprgs\Week3\src\main\java\com\revature\javalin\daos\StudentPostgressDAO.java"/>
 			<item value="D:\javaprgs\StoreInput\src\com\revature\java\store2\Create.java"/>
 			<item value="D:\javaprgs\JavalinAssignment\src\main\java\com\revature\assignment\Assignment.java"/>
 			<item value="D:\javaprgs\01JavalinDemo\pom.xml"/>
@@ -47,6 +48,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.revature.project.object.model"/>
+			<item value="pom.revature.test.class"/>
+			<item value="com.revature.selenium"/>
+			<item value="com.dao.test"/>
 			<item value="com.revature.pctcbank.project"/>
 			<item value="com.revature.week3day5"/>
 			<item value="com.kiersten.jdbc"/>
@@ -58,14 +63,13 @@
 			<item value="com.revature.pkg"/>
 			<item value="com.revature.exceptions"/>
 			<item value="com.revature.assignment.emp"/>
-			<item value="com.revature.emp"/>
-			<item value="com.kiersten.javalin"/>
-			<item value="com.revature.javalin.assignment"/>
-			<item value="com.revature.javalin.Assignment"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ProjectObjectModel"/>
+			<item value="SeleniumAssignment01"/>
+			<item value="DAOTest"/>
 			<item value="PCTCBank"/>
 			<item value="Week3"/>
 			<item value="01JDBCProject"/>
@@ -78,9 +82,6 @@
 			<item value="06CollectionProject"/>
 			<item value="05SomeProject"/>
 			<item value="ExceptionProject"/>
-			<item value="AbstractAssignment"/>
-			<item value="EmpProject02"/>
-			<item value="EmployeeProject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -100,10 +101,13 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Kiersten\Downloads\javaprgs-49c2d66145ea4b47d4d916b04c24c9f06e4b29fa\Week3"/>
 			<item value="C:\Users\Kiersten\BankAPI"/>
 			<item value="D:\Java"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="UmumIJustIguessUseStudents"/>
+			<item value="DAOTest"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
 			<item value="[artifactId]-[version]"/>
