@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.revature.emp.ContractualEmployee"/>
-    <fullyQualifiedTypeName name="com.revature.emp.Employee"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="com.revature.exceptions.custom.InvalidAgeException"/>
-    <fullyQualifiedTypeName name="com.revature.exceptions.custom.Person"/>
     <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.TreeSet"/>
@@ -27,7 +21,6 @@
     <fullyQualifiedTypeName name="com.revature.mytests.FirstTestClass"/>
     <fullyQualifiedTypeName name="com.revature.mytests.SecondTestClass"/>
     <fullyQualifiedTypeName name="org.junit.platform.runner.JUnitPlatform"/>
-    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
     <fullyQualifiedTypeName name="com.revature.logic.Calculator"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Disabled"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
@@ -55,9 +48,16 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
     <fullyQualifiedTypeName name="com.revature.javalin.entity.Student"/>
     <fullyQualifiedTypeName name="com.revature.javalin.dao.StudentDAO"/>
     <fullyQualifiedTypeName name="com.revature.javalin.dao.StudentPostgresDAO"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="io.cucumber.junit.Cucumber"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Given"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.When"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Then"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="io.javalin.Javalin"/>
+    <fullyQualifiedTypeName name="io.javalin.http.staticfiles.Location"/>
 </qualifiedTypeNameHistroy>
