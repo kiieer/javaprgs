@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Java\javaprgs\Logger"/>
 			<item value="D:\Java\javaprgs\Week3"/>
 			<item value="D:\Java\javaprgs\Week3\src\main\java\com\revature\javalin\daos\StudentPostgressDAO.java"/>
 			<item value="D:\javaprgs\StoreInput\src\com\revature\java\store2\Create.java"/>
@@ -50,6 +51,9 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.revature.threads"/>
+			<item value="com.revature.logging"/>
+			<item value="com.revature.logger"/>
 			<item value="my.calculator.project"/>
 			<item value="com.kiersten.javalin.web"/>
 			<item value="com.revature.kiersten.cucumber.selenium"/>
@@ -57,6 +61,11 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="RunnableThreads"/>
+			<item value="Multithreading"/>
+			<item value="RollingFileAppender"/>
+			<item value="LoggerProperties"/>
+			<item value="Logger"/>
 			<item value="Calculator"/>
 			<item value="WebJavalin"/>
 			<item value="CucumberSeleniumProject"/>
@@ -79,6 +88,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Java\javaprgs\javalinvue-example-master"/>
 			<item value="D:\Java\javalin-website-example-master"/>
 			<item value="C:\Users\Kiersten\Downloads\javaprgs-49c2d66145ea4b47d4d916b04c24c9f06e4b29fa\Week3"/>
 			<item value="C:\Users\Kiersten\BankAPI"/>
