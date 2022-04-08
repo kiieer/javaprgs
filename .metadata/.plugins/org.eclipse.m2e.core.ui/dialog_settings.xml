@@ -51,6 +51,7 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.revature.designpattern"/>
 			<item value="com.revature.threads"/>
 			<item value="com.revature.logging"/>
 			<item value="com.revature.logger"/>
@@ -61,6 +62,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SingletonPattern"/>
 			<item value="RunnableThreads"/>
 			<item value="Multithreading"/>
 			<item value="RollingFileAppender"/>

@@ -40,9 +40,11 @@
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1649268652956_6" label="Week 6" name="Week 6">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Multithreading" type="4"/>
 <item elementID="=FileLogging" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=DesignPattern" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RollingFileAppender" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Logger" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RunnableThreads" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Java8Demo" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1646150893066_2" label="Window Working Set" name="Aggregate for window 1646150893066"/>
 <mruList name="Week 5"/>
