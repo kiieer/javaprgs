@@ -45,6 +45,7 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Logger" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RunnableThreads" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Java8Demo" type="4"/>
+<item elementID="=Time" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1646150893066_2" label="Window Working Set" name="Aggregate for window 1646150893066"/>
 <mruList name="Week 5"/>
