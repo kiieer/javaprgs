@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Java\javaprgs\ACodeBase"/>
 			<item value="D:\Java\javaprgs\Logger"/>
 			<item value="D:\Java\javaprgs\Week3"/>
 			<item value="D:\Java\javaprgs\Week3\src\main\java\com\revature\javalin\daos\StudentPostgressDAO.java"/>
@@ -51,6 +52,8 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.revature.springdemo"/>
+			<item value="com.kiersten.springdemo"/>
 			<item value="com.revature.designpattern"/>
 			<item value="com.revature.threads"/>
 			<item value="com.revature.logging"/>
@@ -62,6 +65,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringJavaConfig"/>
+			<item value="SpringAnnotations"/>
+			<item value="ACodeBase"/>
 			<item value="SingletonPattern"/>
 			<item value="RunnableThreads"/>
 			<item value="Multithreading"/>

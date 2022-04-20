@@ -47,6 +47,11 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Java8Demo" type="4"/>
 <item elementID="=Time" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1650291917834_7" label="Week 8" name="Week 8">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ACodeBase" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringAnnotations" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringJavaConfig" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1646150893066_2" label="Window Working Set" name="Aggregate for window 1646150893066"/>
 <mruList name="Week 5"/>
 <mruList name="Week 1 - Week 4"/>
