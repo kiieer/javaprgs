@@ -51,6 +51,7 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ACodeBase" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringAnnotations" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringJavaConfig" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Week8Spring" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1646150893066_2" label="Window Working Set" name="Aggregate for window 1646150893066"/>
 <mruList name="Week 5"/>
