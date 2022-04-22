@@ -52,6 +52,8 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.revature.spring.mvc"/>
+			<item value="week8.revature.spring"/>
 			<item value="com.revature.springdemo"/>
 			<item value="com.kiersten.springdemo"/>
 			<item value="com.revature.designpattern"/>
@@ -65,6 +67,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringMVCJava"/>
+			<item value="Week8Spring"/>
 			<item value="SpringJavaConfig"/>
 			<item value="SpringAnnotations"/>
 			<item value="ACodeBase"/>
